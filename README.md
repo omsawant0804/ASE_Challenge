@@ -251,7 +251,7 @@ Response :
 }
 ```
 
-## Struture I follow
+## Struture I follow : Layered Architecture
 ### For Controller layer
 similar for every function in controller
 ```
