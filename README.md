@@ -252,6 +252,7 @@ Response :
 ```
 
 ## Struture I follow : Layered Architecture
+**Note: I am returning a 200 (OK) status code for all successful operations including create and delete because I am returning a custom response body in every case.**
 ### For Controller layer
 similar for every function in controller
 ```
